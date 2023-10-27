@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning at Galala University
 - 💞️ I’m looking to collaborate on Computer Science Field
-- 💞️ Test 1
+- 💞️ Test 12
