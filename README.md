@@ -31,28 +31,26 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></a>
 
-   <a
-    href="https://www.mysql.com/"
-    target="_blank"
-    rel="noreferrer">
-    <img
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-     alt="mysql"
-     width="40"
-     height="40" />
-   </a>
-
-   <a
-    href="https://postman.com"
-    target="_blank"
-    rel="noreferrer">
-    <img
-     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-     alt="postman"
-     width="40"
-     height="40" />
-   </a>
+ <a
+  href="https://www.mysql.com/"
+  target="_blank"
+  rel="noreferrer">
+  <img
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+   alt="mysql"
+   width="40"
+   height="40" />
+ </a>
+<a
+  href="https://postman.com"
+  target="_blank"
+  rel="noreferrer">
+  <img
+   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+   alt="postman"
+   width="40"
+   height="40" />
+ </a>
 </p>
 
-<h3>Try Hack Me: </h3>
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
