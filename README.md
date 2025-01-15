@@ -9,8 +9,9 @@
 - 🏢 I'm a Computer Science Student.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **<mahros.work@hotmail.com>**
+<span align="left">
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
-
+</span>
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
 <!-- linkedin -->
