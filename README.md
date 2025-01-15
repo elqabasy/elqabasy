@@ -9,9 +9,7 @@
 - 🏢 I'm a Computer Science Student.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **<mahros.work@hotmail.com>**
-<span align="left">
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
-</span>
+
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
 <!-- linkedin -->
@@ -30,20 +28,9 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></a>
-<!-- <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a> -->
-<!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> -->
-<!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> -->
-<!-- <a href="https://www.mongodb.com/" -->
-    <!-- target="_blank"
-    rel="noreferrer">
-    <img
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-     alt="mongodb"
-     width="40"
-     height="40" />
-   </a> -->
+
    <a
     href="https://www.mysql.com/"
     target="_blank"
@@ -54,27 +41,8 @@
      width="40"
      height="40" />
    </a>
-      <!-- <a
-    href="https://nodejs.org"
-    target="_blank"
-    rel="noreferrer">
-    <img
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-     alt="nodejs"
-     width="40"
-     height="40" />
-   </a> -->
-<!-- <a
-    href="https://pandas.pydata.org/"
-    target="_blank"
-    rel="noreferrer">
-    <img
-     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-     alt="pandas"
-     width="40"
-     height="40" />
-   </a> -->
-   <!-- <a
+
+   <a
     href="https://postman.com"
     target="_blank"
     rel="noreferrer">
@@ -83,9 +51,9 @@
      alt="postman"
      width="40"
      height="40" />
-   </a> -->
+   </a>
 </p>
 
-<!-- <p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=elqabasy&show_icons=true&locale=en" alt="Mahros AL-Qabasy" /></p> -->
-
 <p><img align = "center"  src="https://github-readme-streak-stats.herokuapp.com/?user=elqabasy&" alt="elqabasy" /></p>
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
