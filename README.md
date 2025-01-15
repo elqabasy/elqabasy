@@ -54,6 +54,5 @@
    </a>
 </p>
 
-<p><img align = "center"  src="https://github-readme-streak-stats.herokuapp.com/?user=elqabasy&" alt="elqabasy" /></p>
-
+<h3>Try Hack Me: </h3>
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
