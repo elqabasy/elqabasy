@@ -54,3 +54,5 @@
 </p>
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahros.elqabasy.png)
+
+<img src="https://github-readme-stats.vercel.app/api?username=elqabasy" alt="elqabasy states">
